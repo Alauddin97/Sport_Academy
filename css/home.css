@@ -1,0 +1,63 @@
+.init {
+    border:2px solid black;
+    width: 80%;
+    margin: auto;
+    background: rgba(0,0,0,0.5);
+}
+
+header{
+    font-size: 30px;
+    color: whitesmoke;
+    background: rgba(1, 1,1, 0.7);
+    text-align: center;
+    padding: 10px;
+    font-family: cursive;
+}
+
+nav{
+	background: rgba(0,0,0,0.5);
+	padding: 10px;
+}
+
+a{
+	text-align: left;
+	color: aqua;
+	padding: 10px;
+	text-align: left;
+	text-decoration: none;
+}
+
+a:hover{
+	background:gray;
+}
+
+.details {
+	color:lightgreen;
+	padding:20px;
+}
+.input{
+	width: 500px;
+	height: 30px;
+	text-align: left;
+	border-width:1px;
+	border-radius: 5px;
+	margin-bottom: 15px;
+}
+.flex{
+	display: flex;
+	padding: 40px;
+}
+
+.register{
+	width: 89%;
+	height: 30px;
+	background-color: gray;
+	text-align: center;
+	border-width:3px;
+	border-radius: 5px;
+	margin-left: 50px;
+}
+u{
+	margin-left: 35%;
+	font-size: 30px;
+}

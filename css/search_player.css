@@ -1,0 +1,46 @@
+.init {
+    border:2px solid black;
+    width: 80%;
+    margin: auto;
+    background: rgba(0,0,0,0.5);
+    min-height: 95%;
+}
+
+header{
+    font-size: 30px;
+    color: whitesmoke;
+    background: rgba(1, 1,1, 0.7);
+    text-align: center;
+    padding: 10px;
+    font-family: cursive;
+}
+
+nav{
+	background: rgba(0,0,0,0.5);
+	padding: 10px;
+}
+
+a{
+	text-align: left;
+	color: aqua;
+	padding: 10px;
+	text-align: left;
+	text-decoration: none;
+}
+
+a:hover{
+	background:gray;
+}
+
+
+.div {
+    border: 1px solid blue;
+    width: 400px;
+    height: 250px;
+    margin-top: 200px;
+    margin-left: 420px;
+}
+
+select{
+    width: 150px;
+}

@@ -1,0 +1,49 @@
+.login {
+    border:2px solid black;
+    width: 80%;
+    margin: auto;
+    background: rgba(0,0,0,0.5);
+}
+
+header{
+    font-size: 30px;
+    color: whitesmoke;
+    background: rgba(1, 1,1, 0.7);
+    text-align: center;
+    padding: 10px;
+    font-family: cursive;
+}
+.user{
+    color: aqua;
+    font-family: monospace;
+    display: flex;
+    
+}
+.insert{
+    padding: 20px;
+    width: 46.5%;
+}
+
+img{
+    width:592px;
+    height: 300px;
+    padding: 05px;
+}
+
+.field{
+    display: flex;
+    padding: 10px;
+
+}
+
+.details{
+    width: 300px;
+    color: bisque;
+    padding: 0px 20px;
+    border: 2px solid grey;
+    background: rgba(0,0,0,0.7);
+}
+
+h2{
+    text-align: center;
+}
